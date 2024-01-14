@@ -1,6 +1,6 @@
-# Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-# SPDX-License-Identifier: MIT-0
-# Modified for Cedar Gate Technologies. Applicable for both Mariadb and MYSQL.
+# Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. SPDX-License-Identifier: MIT-0 Implemented
+# Telnet functionality and introduced AWS SES Email Notification Feature. These enhancements are now applicable for
+# both MariaDB and MySQL databases, catering to single-user scenarios.
 # Maintainer Alon Shrestha.
 
 import boto3
