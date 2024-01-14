@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script automates the rotation of AWS secret credentials for databases, specifically designed for both MariaDB and MySQL databases with single users. It is based on the original AWS sample scripts but has been modified to meet specific requirements, including:
+This script automates the rotation of AWS secret credentials for databases, specifically designed for both MariaDB and MySQL databases with single users. It is based on the original [AWS sample scripts](https://github.com/aws-samples/aws-secrets-manager-rotation-lambdas) but has been modified to meet specific requirements, including:
 
 - **Database compatibility**: Supports both MariaDB and MySQL.
 - **Email notifications**: Sends updates on rotation success or failure.
